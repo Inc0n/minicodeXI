@@ -1,8 +1,8 @@
-# minicodeXI
+# minicodeXI (beta)
 
 This is a rewrite of [orginal minicode project](https://github.com/lufinkey/miniCode), unfortunately the project went down hill after quite some time
 
-There would be features different from the original minicode, since it's a rewrite.
+There are numerous changes, which are quite noticable. Right now its in beta, the project is still not finished.
 
 At the moment there is just deb file, would need repo hosting.
 
